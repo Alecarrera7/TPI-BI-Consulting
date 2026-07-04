@@ -6,7 +6,7 @@ Un análisis enfocado en transformar datos crudos en insights accionables para l
 
 ## 🛠️ 2. Estructura del Repositorio y Herramientas
 * **/database:** Contiene los archivos de origen (`ventas.csv`, `clientes.csv`, `productos.csv`, `categorias.csv`, `metodos_pago.csv`).
-* **Google Sheets:** Utilizado para la limpieza inicial y la estructuración del modelo de datos.
+* [**Google Sheets**](https://docs.google.com/spreadsheets/d/1gWzcGImKSoAMY2hPMCzct6uGDE4G0iQ-d-DvYNn4aLc/edit?usp=sharing): Utilizado para la limpieza inicial y la estructuración del modelo de datos.
 * **Google Looker Studio:** Herramienta elegida para el modelado final, creación de métricas clave y diseño del dashboard interactivo.
 
 ## 📊 3. El Dashboard Interactivo
